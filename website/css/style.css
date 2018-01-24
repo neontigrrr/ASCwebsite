@@ -1,0 +1,129 @@
+body{
+  background: rgb(86, 88, 99);
+  font: normal 15px Helvetica, sans-serif;
+}
+
+h1 {
+  color: rgb(201, 237, 228);
+
+}
+
+
+#myname {
+  color: rgb(255, 199, 48);
+  font: Helvetica;
+  font-size: 500%;
+  margin: 0px 0px 0px 0px;
+
+
+}
+#first {
+  color: rgb(201, 237, 228);
+  font: Helvetica;
+  font-size: 325%;
+  margin: 5px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+/*span:hover + .firstInner{
+  display:block;
+}
+
+span:hover + .secondInner{
+  display:block;
+}
+
+span:hover + .thirdInner{
+  display:block;
+}
+
+span:hover + .fourthInner{
+  display:block;
+}*/
+
+.firstInner {
+  /*display: none;*/
+  background: rgba(230, 239, 237, .89);
+  padding: 0px 0px 10px 10px;
+  margin: 0px 0px 0px 0px;
+}
+
+.secondInner {
+  /*display: none;*/
+  background: rgba(230, 239, 237, .89);
+  padding: 10px 0px 10px 0px;
+  margin: 0px 0px 0px 0px;
+  font: Helvetica;
+  line-height: 1;
+  font-size: 100%;
+  /*margin: 10px 0px 10px 0px;*/
+  /*padding: 0px 0px 0px 0px;*/
+  letter-spacing: -0.5px;
+  color: rgb(86, 88, 99);
+}
+
+.thirdInner {
+  /*display: none;*/
+  background: rgba(230, 239, 237, .89);
+  padding: .02px 0px .02px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+
+.block{
+  /*background: rgba(244, 255, 254, .25);*/
+  background: rgba(237, 255, 254, .2);
+  padding: 10px 10px 10px 10px;
+  font: Helvetica;
+  line-height: 2;
+  font-size: 120%;
+  margin: 10px 0px 10px 0px;
+  padding: 0px 0px 0px 0px;
+  letter-spacing: -0.75px;
+  color: rgb(54, 67, 71);
+}
+
+.infoo {
+  /*background: rgb(244, 255, 254);*/
+  /*padding: 10px 10px 10px 10px;*/
+  font: Helvetica;
+  line-height: 1;
+  font-size: 100%;
+  /*margin: 10px 0px 10px 0px;*/
+  padding: 0px 0px 0px 0px;
+  letter-spacing: -0.5px;
+  color: rgb(86, 88, 99);
+}
+
+
+a {
+  font: Helvetica;
+  line-height: 2;
+  padding: 0px 0px 0px 5px;
+}
+
+#second {
+  color: rgb(201, 237, 228);
+  font: Helvetica;
+  font-size: 325%;
+  margin: 0px 0px 0px 0px;
+  padding: 10px 0px 0px 0px;
+}
+
+#third {
+  color: rgb(201, 237, 228);
+  font: Helvetica;
+  font-size: 325%;
+  margin: 0px 0px 0px 0px;
+}
+
+#mainblock{
+  /*background: #BBF9E8;*/
+  margin: 0px 0px 0px 0px;
+  padding: 0px 135px 0px 0px;
+  float: left;
+}
+
+.floatstop {
+  clear:both;
+}
